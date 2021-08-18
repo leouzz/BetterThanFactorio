@@ -316,6 +316,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/LowMan/Scripts/ThirdPersonCharacter.cs"
 "Assets/Models/Player/Script/ThirdPersonMovement.cs"
+"Assets/Models/Terrain/TerrainGenerator.cs"
+"Assets/Models/Terrain/TerrainGeneratorEditor.cs"
 "Assets/Scripts/Terrain_Generation.cs"
 -langversion:8.0
 
